@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CRM</string>
+    <string name="camera">START SCANNING</string>
+    <string name="gallery">TAKE FROM GALLERY</string>
+    <string name="take_a_snap">Take a snap</string>
+    <string name="import_from_gallery">Import from gallery</string>
+    <string name="hello">Hello!</string>
+    <string name="camera_capture">Camera capture</string>
+</resources>
